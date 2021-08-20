@@ -11,3 +11,26 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.RedLight {
+  height: 25px;
+  width: 25px;
+  background-color:red;
+  display: inline-block;
+  border: none;
+}
+.YellowLight {
+  height: 25px;
+  width: 25px;
+  background-color:yellow;
+  display: inline-block;
+  border: none;
+}
+.GreenLight {
+  height: 25px;
+  width: 25px;
+  background-color:green;
+  display: inline-block;
+  border: none;
+}
+
