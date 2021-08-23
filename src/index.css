@@ -33,7 +33,7 @@ code {
   display: inline-block;
   border: none;
 }
- .Highlighter{
+ .highlighter{
   box-shadow: 0 0 40px 20px rgb(255, 255, 255), 0 0 100px 50px rgb(231, 255, 97);
  }
  
